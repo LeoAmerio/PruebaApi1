@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\bin\Debug\net6.0\ApiPostgreSQL.Model.deps.json
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\bin\Debug\net6.0\ApiPostgreSQL.Model.dll
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\bin\Debug\net6.0\ApiPostgreSQL.Model.pdb
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\obj\Debug\net6.0\ApiPostgreSQL.Model.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\obj\Debug\net6.0\ApiPostgreSQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\obj\Debug\net6.0\ApiPostgreSQL.Model.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\obj\Debug\net6.0\ApiPostgreSQL.Model.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\obj\Debug\net6.0\ApiPostgreSQL.Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\obj\Debug\net6.0\ApiPostgreSQL.Model.dll
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\obj\Debug\net6.0\refint\ApiPostgreSQL.Model.dll
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\obj\Debug\net6.0\ApiPostgreSQL.Model.pdb
+C:\Users\Usuario\source\repos\ApiPostgreSQL\ApiPostgreSQL.Model\obj\Debug\net6.0\ref\ApiPostgreSQL.Model.dll
